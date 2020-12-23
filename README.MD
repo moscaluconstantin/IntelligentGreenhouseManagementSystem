@@ -26,6 +26,6 @@ The software contains the following features:
 ## Screens
 
 ![](./Screens/1.JPG)
-![](./Screens/2.PNG)
-![](./Screens/3.PNG)
-![](./Screens/4.PNG)
+![](./Screens/2.png)
+![](./Screens/3.png)
+![](./Screens/4.png)
